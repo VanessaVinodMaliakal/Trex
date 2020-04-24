@@ -3,7 +3,7 @@ var ground, invisibleGround, groundImage;
 var rand,count;
 var obstacle1Image,obstacle2Image,obstacle3Image,obstacle4Image,obstacle5Image,obstacle6Image,obstaclesGroup;
 var cloudImage,cloudGroup;
-
+//trex ga
 function preload(){
   trex_running = loadAnimation("trex1.png","trex3.png","trex4.png");
   trex_collided = loadImage("trex_collided.png");
